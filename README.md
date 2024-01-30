@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 👀 I’m interested in design, coding and programming Websites
-- 🌱 I’m studying Web Design and Development and currently learning JavaScript
+- 👀 I’m interested in designing, coding and programming Websites
+- 🌱 I’m studying Web Design and Development
 
