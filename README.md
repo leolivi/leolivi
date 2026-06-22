@@ -1,9 +1,6 @@
 # 🌸 **Konnichiwa! 🌸**
 ![image](https://github.com/user-attachments/assets/80c8bfe9-2f40-41c2-8f76-c219c3b1a311) 
 
-## 👩‍💻 **About Me**
-I am a software engineer from Switzerland who loves structuring data and blending it with creative output. I stay curious, continuously learning and exploring new technologies.
-
 ## 🎨 **Skills**
 Languages <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br>
